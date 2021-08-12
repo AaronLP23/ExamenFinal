@@ -8,4 +8,5 @@ El procesamiento de los datos del archivo llamado Dataset, ubicado en la carpeta
 - Key collision - Daitch-mokotoff
 - Key collision - ngram-fingerprint
 - Nearest neighbor - ppm
+
 Además, el formato de los nombres de los autores responde a Apellido, Nombre.
